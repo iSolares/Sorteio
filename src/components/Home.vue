@@ -194,7 +194,7 @@ input[type="number"]::-webkit-inner-spin-button {
 }
 .v-field__input {
   color: rgb(10, 235, 10) !important;
-  font-size: 130px;
+  font-size: 100px;
   font-weight: bold;
   text-align: center;
   margin: 0 auto;
